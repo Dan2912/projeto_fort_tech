@@ -1,4 +1,4 @@
-![ETL_Fluxo](https://github.com/user-attachments/assets/274c4897-dadc-4b32-a736-35ef4cef0094)![ETL_Fluxo](https://github.com/user-attachments/assets/274c4897-dadc-4b32-a736-35ef4cef0094)# 📊 Fort Tech - Dashboard de Comissões e Vendas
+# 📊 Fort Tech - Dashboard de Comissões e Vendas
 
 Este projeto implementa um pipeline de dados completo para automatizar o fluxo de vendas da empresa  **Fort Tech**, com ingestão via RDS, transformação em S3 e visualização final no Power BI.
 
