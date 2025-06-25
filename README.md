@@ -13,6 +13,7 @@ Este projeto implementa um pipeline de dados completo para automatizar o fluxo d
 
 ### 2. **Transformação (Silver)**
 - Limpeza de dados
+- Mascaramento de Dados (Evitar a exposição dos Dados Pessoais dos Clientes)
 - Padronização e anonimização (se necessário)
 - Salva dados tratados na **camada Silver**
 
