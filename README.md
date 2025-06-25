@@ -1,6 +1,6 @@
 # 📊 Fort Tech - Dashboard de Comissões e Vendas
 
-Este projeto implementa um pipeline de dados completo para automatizar o fluxo de vendas da empresa fictícia **Fort Tech**, com ingestão via RDS, transformação em S3 e visualização final no Power BI.
+Este projeto implementa um pipeline de dados completo para automatizar o fluxo de vendas da empresa  **Fort Tech**, com ingestão via RDS, transformação em S3 e visualização final no Power BI.
 
 ---
 
