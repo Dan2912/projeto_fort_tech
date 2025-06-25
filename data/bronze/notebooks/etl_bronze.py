@@ -104,6 +104,4 @@ if __name__ == "__main__":
     main()
 
 
-feat: pipeline incremental RDS → S3 (camada Bronze)
-
 
