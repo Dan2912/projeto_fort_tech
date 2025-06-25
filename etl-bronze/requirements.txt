@@ -1,7 +1,0 @@
-boto3
-pandas
-s3fs
-pyarrow
-psycopg2-binary
-python-dotenv
-
