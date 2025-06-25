@@ -32,3 +32,7 @@ Este projeto implementa um pipeline de dados completo para automatizar o fluxo d
 - **GitHub** – Repositório de versionamento
 - **GitHub Actions / Lambda** (futuramente) – Agendamento automático
 
+## 👨‍💻 Autor
+
+Danillo • Especialista em BI, Engenheiro de Dados em formação  
+[LinkedIn](www.linkedin.com/in/danillo-r-8561192a2) • [GitHub](https://github.com/Dan-2912)
