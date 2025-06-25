@@ -12,7 +12,7 @@ Este projeto implementa um pipeline de dados completo para automatizar o fluxo d
 - Salva novos dados na **camada Bronze** (S3, formato Parquet)
 
 ### 2. **Transformação (Silver)**
-- Limpeza de dados
+- Limpeza de dados (Selecionar apenas as colunas necessárias, limpando dados nulos e duplicados)
 - Mascaramento de Dados (Evitar a exposição dos Dados Pessoais dos Clientes)
 - Padronização e anonimização (se necessário)
 - Salva dados tratados na **camada Silver**
