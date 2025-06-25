@@ -34,7 +34,6 @@ Este projeto implementa um pipeline de dados completo para automatizar o fluxo d
 - **GitHub Actions / Lambda** (futuramente) – Agendamento automático
 
 ![ETL_Fluxo](https://github.com/user-attachments/assets/e33a3633-6d20-485f-9b53-f14162b1c9f9)
-![ETL_Fluxo](https://github.com/user-attachments/assets/e33a3633-6d20-485f-9b53-f14162b1c9f9)
 
 
 
