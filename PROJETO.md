@@ -2,6 +2,9 @@
 
 Este projeto implementa um pipeline de dados completo para automatizar o fluxo de vendas da empresa  **Fort Tech**, com ingestão via RDS, transformação em S3 e visualização final no Power BI.
 
+![projeto_fort_tech drawio](https://github.com/user-attachments/assets/998a89ba-05f9-462a-9698-20ec6fadc21c)
+
+
 ---
 
 ## 🔁 Etapas do Pipeline
